@@ -1,8 +1,8 @@
 .PHONY: clean-git
 
 clean-git:
-	@echo "🔍 Removendo .git de subpastas (exceto da raiz)..."
+	@echo "🔍 Removing .git from subfolders"
 	@find . -type d -name ".git" \
 		-not -path "./.git" \
 		-exec rm -rf {} +
-	@echo "✅ Limpeza concluída (raiz preservada)."
+	@echo "✅ Done."
