@@ -16,10 +16,7 @@ This project is for **educational and personal study purposes**. While security 
 If you discover a security vulnerability or potential risk in this repository:
 
 1. **Do not open a public issue.**
-2. Include:
-   - A clear description of the issue
-   - Steps to reproduce (if applicable)
-   - Potential impact
+2. Contact the owner/owners of the repository.
 
 We will investigate and respond as quickly as possible.
 
